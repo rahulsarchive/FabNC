@@ -11,3 +11,4 @@ The current machine is designed with a bed area of about 2X3 feet.
 
 ![FabNC](Images/CAD/27.png)
 
+Detailed information on the buil can be found in the [Buil Log](https://github.com/rahulsarchive/FabNC/tree/master/Build%20Log)

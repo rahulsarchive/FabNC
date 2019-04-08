@@ -69,6 +69,64 @@ I designed a parametric HDPE bracket to hold the z-axis in place, the bracket wi
 
 ![FabNC](../Images/CAD/15.png)
 
+Import the bracket into the current modela and move it into place.
+
+![FabNC](../Images/CAD/16.png)
+
+The next step is to **design a base for the machine.** Sketch the profile connecting the two X-axis togethr and extrude it as a part, make sure to add some tabs to connect the top and bottom plates together.
+
+![FabNC](../Images/CAD/19.png)
+
+Once the profile is done, create a rectangular array with even spacing covering the length of the machine.
+
+![FabNC](../Images/CAD/20.png)
+
+The webs will provide strength and rigidity to the base, Its time to design a base plate for the machien to rest on and provide a rigid foundation.
+
+![FabNC](../Images/CAD/22.png)
+
+![FabNC](../Images/CAD/23.png)
+
+
+Using a similar process create a top bed for he machine, this will act as the machine bed where you can fix the stock for milling. 
+
+![FabNC](../Images/CAD/24.png)
+
+Tip, design the top and bottom plates to be at right angles to each other, thereby providing strength and rigidity in both directions.
+
+Vola! the machine is done!
+
+![FabNC](../Images/CAD/25.png)
+
+![FabNC](../Images/CAD/27.png)
+
+### Accessories
+
+Its time to design some accesories to help with wire routing and electroics placement.
+
+**Screw in plates for Cable carrier**
+
+![FabNC](../Images/CAD/30.png)
+
+![FabNC](../Images/CAD/29.png)
+
+
+These are small screw in plates which allow to attach the cable carrier which will the wires for the stepper motor and the spindle.
+
+**ON/OFF Missile cover switch** for the coolness factor and possibly saftey, I think.
+
+![FabNC](../Images/CAD/31.png)
+
+The switch will be on the front right of the machine, which will allow for easy access.
+
+
+
+
+
+
+
+
+
 
 
 
