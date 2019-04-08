@@ -27,4 +27,4 @@ The current machine is designed with a bed area of about 2X3 feet.
 1. Always start from the Z-axis and build outwards, lot easier than going the other way.
 2. Rigidity is your friend.
 
-Detailed information on the buil can be found in the [Buil Log](https://github.com/rahulsarchive/FabNC/tree/master/Build%20Log)
+Detailed information on the buil can be found in the [Build Log](https://github.com/rahulsarchive/FabNC/tree/master/Build%20Log)
