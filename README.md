@@ -7,7 +7,7 @@ RCT-CNC is a generalist 3-axis CNC mahicne based on the RCT gantry designed by J
 
 The current machine is designed with a bed area of about 2X3 feet.
 
-![FabNC](Images/CAD/CAD (25).png)
+![FabNC](Images/CAD/25.png)
 
-![FabNC](Images/CAD/CAD (27).png)
+![FabNC](Images/CAD/27.png)
 
