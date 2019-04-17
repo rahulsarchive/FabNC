@@ -15,7 +15,7 @@
 
 1. Always start from the Z-axis and build outwards, lot easier than going the other way.
 2. Rigidity is your friend.
-3. 
+3. Always note hole sizes before milling, eg 4.85mm hole for threading M5 screw.
 
 The RCT Gantry can be found on Git lab at [rctgantries](https://gitlab.cba.mit.edu/jakeread/rctgantries)
 
