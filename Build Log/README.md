@@ -15,7 +15,11 @@
 
 1. Always start from the Z-axis and build outwards, lot easier than going the other way.
 2. Rigidity is your friend.
-3. 
+3. Always note hole sizes before milling, eg 4.8mm hole for threading M5 screw.
+4. Test the runout of your machine by doing a small pockect cut and measuring the dimensions. Change the bit diameter in Vcarve to offset the runout.
+5. Double check the dimensions of your CAD file and check the material thickness before milling.
+6. Mill plastic with a new single flute end mill. Go for max depth (5-10mm) and min Feed rate (15mm/sec).
+
 
 The RCT Gantry can be found on Git lab at [rctgantries](https://gitlab.cba.mit.edu/jakeread/rctgantries)
 
