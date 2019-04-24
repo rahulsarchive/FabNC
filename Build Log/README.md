@@ -21,6 +21,7 @@
 6. Mill plastic with a new single flute end mill. Go for max depth (5-10mm) and min Feed rate (15mm/sec).
 
 
+
 The RCT Gantry can be found on Git lab at [rctgantries](https://gitlab.cba.mit.edu/jakeread/rctgantries)
 
 For this machine we will be using the [N23 linear axis](https://gitlab.cba.mit.edu/jakeread/rctgantries/tree/master/n23_linearPinion) The CAD file and the BOM can be found on the Gitlab repository.
@@ -122,6 +123,83 @@ These are small screw in plates which allow to attach the cable carrier which wi
 ![FabNC](../Images/CAD/31.png)
 
 The switch will be on the front right of the machine, which will allow for easy access.
+
+
+## Fabrication
+
+The first step is to nest the design within the stock to save material when cutting. I export the DXF file from Fusion 360 and import them to Rhino. Its much easier to nest in Rhino and it porvides some useful tools.
+
+![FabNC](../Images/FAB/nest1.png)
+
+Starting with the z-axis first
+
+![FabNC](../Images/FAB/nest2.png)
+
+The outer square represents stock size, for me its 1.2m X 1m.
+
+#### Feeds and Speeds for cutting
+
+**Feed rate: 15-20mm/sec**  
+**Plunge rate: 20mm/sec**  
+**Pass Depth: 5-10mm**  
+**Step over: 80%**  
+
+Time to start cutting. Get ready for some plastic snow.
+
+![FabNC](../Images/FAB/0.jpeg)
+
+Start with the Z-axis and work your way downwards.
+
+![FabNC](../Images/FAB/1.jpeg)
+
+The Z- axis all milled and ready for assembly.
+
+### DIY Shoulder Bolts
+
+Commercial shoulder bolts are expensive, and they are rated for a couple of tons, we don't need that kind of strength. A simply plastic bushing around a regular M5 screw will suffice for our application.
+
+![FabNC](../Images/FAB/02.jpeg)
+
+This is a cost effective solution and will allow for custom shoulder lengths for various sizes like M5 and M6.
+
+Bearing assembly,
+
+![FabNC](../Images/FAB/2.jpeg)
+
+**M5 SHCS>M5 washer>Plastic Bushing>8mmID 10mmOD shim>M5 washer**
+
+Use a similar method to make bearing assemblies to attach to the axis plates.
+
+![FabNC](../Images/FAB/4.jpeg)
+
+![FabNC](../Images/FAB/3.jpeg)
+
+The finished axis will have twelve bearings to constarin it from all sizes.
+
+![FabNC](../Images/FAB/5.jpeg)
+
+Four of them will be used to preload the assembly to give a smooth motion.
+
+![FabNC](../Images/FAB/6.jpeg)
+
+The completed Z-axis with motor mount.
+
+![FabNC](../Images/FAB/7.jpeg)
+
+Working our way backwards, the next part is the bracket holding the Z-axis to the Y-axis.
+
+![FabNC](../Images/FAB/10.jpeg)
+
+There is two of them to provide some extra stability.
+
+
+
+
+
+
+
+
+
 
 
 
