@@ -19,6 +19,9 @@
 4. Test the runout of your machine by doing a small pockect cut and measuring the dimensions. Change the bit diameter in Vcarve to offset the runout.
 5. Double check the dimensions of your CAD file and check the material thickness before milling.
 6. Mill plastic with a new single flute end mill. Go for max depth (5-10mm) and min Feed rate (15mm/sec).
+7. The torsional rigidity of plastics is poor, try to limit the max length of plastic sections.
+8. Use aluminum sections where convienent to help with Rigidity.
+
 
 
 
