@@ -26,6 +26,20 @@ The current machine is designed with a bed area of about 2X3 feet.
 7. Switch to CAM layout and create tool paths.
 8. Mill out all the components and assemble the parts.
 
-
-
 Detailed information on the buil can be found in the [**Build Log**](https://github.com/rahulsarchive/FabNC/tree/master/Build%20Log)
+
+## FabNC V1
+
+The completed machine
+
+![FabNC](Images/FAB/f1.JPG)
+
+![FabNC](Images/FAB/f2.JPG)
+
+![FabNC](Images/FAB/f3.JPG)
+
+![FabNC](Images/FAB/f4.JPG)
+
+![FabNC](Images/FAB/f5.JPG)
+
+![FabNC](Images/FAB/f6.JPG)
