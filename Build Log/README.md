@@ -192,6 +192,91 @@ Working our way backwards, the next part is the bracket holding the Z-axis to th
 
 There is two of them to provide some extra stability.
 
+Assemble the bed with both side walls first and all the interconnecting Ribs in between.
+
+
+![FabNC](../Images/FAB/13.jpeg)
+
+The ribs connect the two ends together and gives a solid support between them.
+
+![FabNC](../Images/FAB/12.jpeg)
+
+The top and bottom plates can now be mounted on the base, make sure all the holes line up, a small chamfer on the tabs helps in assembling the peices together. The top and bottom plates are 90deg with respect to each other, this provides rigidity in both axes.
+
+![FabNC](../Images/FAB/14.jpeg)
+
+The entire base is assembled, both the x-axis gantires are installed and the Y-axis is connected between them using M5 bolts. Be sure to square the y-axis before fixing it to both the x-axes.
+
+![FabNC](../Images/FAB/15.jpeg)
+
+The Z-axis is coupled into the Y-gantry by using two 90 deg brackets. The brackets are screwed on both the plates and hold the axis firmly together at right angles. With this we complete the mechanical assembly of the machine. You can move the various axes and see how they behave, check for any tight spots or inconsistensies in motion.
+
+## Connecting the Electronics
+
+Now its time to hook everything up to the machine. We will start with the stepper motors.
+
+![FabNC](../Images/FAB/15.1.jpeg)
+
+Prep the stepper motors by connecting the pulley and aligning it with the shaft using the grub screws.
+
+![FabNC](../Images/FAB/16.jpeg)
+
+**Extra marks** if you learn to braid the 4 wires of the stepper motor, this will help reduce the electrical noise and look cool at the same time.
+
+![FabNC](../Images/FAB/17.JPG)
+
+Follow the same procedure as before and start with the Z-axis. Connect motor to the motor plate using the M4 screws and pull a GT2 belt through them. The belt is secured on both sides using a small HDPE Tab and two screws. Pull the belt tight and screw the tabs to hold it in place.
+
+![FabNC](../Images/FAB/18.JPG)
+
+Start with the Z-axis and do the same with Y-axis, attach the motors and pull the belt througha nd tighten it.
+
+![FabNC](../Images/FAB/19.jpeg)
+
+Time for some cable management, each motor has 4 wires, and 4 motors will have 16 wires which must be routed properly. Fortunately we can use a cool peice of hardware known as a **Drag chain/Cable carrier.** This will help manage all the wires in the machine, and allow for free movement, when the axes are in motion. We need two of them, one on each axis.
+
+![FabNC](../Images/FAB/21.JPG)
+
+All the wires get hoocked up to our control board with is the **TinyG V8 board**. Its an awesome machine controller with a host of features. It can even do sixth order acceleration curves for smooth traversing of the axes. I love this board and its very easy to setup. On windows an application called **CoolTerm** can be used for terminal access to the board. And it is compatable with most G-code senders like **CNC.js**
+
+![FabNC](../Images/FAB/22.jpeg)
+
+Now one last thing before we power everything on, add an ON/OFF switch!
+
+![FabNC](../Images/FAB/23.1.JPG)
+
+We are going to go for something cool, hence the **Missle cover Switch** It doubles as an emergency stop button as well.
+
+Last but not least double check all the connections and power everthing on. Hopefully there is no magic smoke. Now we are ready to get going with the tuning and calibration.
+
+![FabNC](../Images/FAB/23.JPG)
+
+
+## FabNC
+
+The completed machine
+
+![FabNC](../Images/FAB/f1.JPG)
+
+![FabNC](../Images/FAB/f2.JPG)
+
+![FabNC](../Images/FAB/f3.JPG)
+
+![FabNC](../Images/FAB/f4.JPG)
+
+![FabNC](../Images/FAB/f5.JPG)
+
+![FabNC](../Images/FAB/f6.JPG)
+
+
+
+
+
+
+
+
+
+
 
 
 
