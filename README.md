@@ -11,9 +11,9 @@ FabNC is a generalist 3-axis CNC mahicne based on the RCT gantry designed by Jak
 
 The current machine is designed with a bed area of about 2X3 feet.
 
-![FabNC](Images/CAD/25.png)
+![FabNC](Images/CAD/MTM2.png)
 
-![FabNC](Images/CAD/27.png)
+![FabNC](Images/CAD/MTM21.png)
 
 ## Design Workflow
 
