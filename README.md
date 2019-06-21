@@ -55,4 +55,6 @@ The completed machine
 
 ![FabNC](Images/FAB/f6.JPG)
 
+![FabNC](Images/FAB/23.JPG)
+
 ![FabNC](Images/pentest.gif)
